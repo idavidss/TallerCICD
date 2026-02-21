@@ -1,7 +1,0 @@
-langchain
-langgraph
-langchain-google-genai
-flask
-flask-cors
-python-dotenv
-requests
